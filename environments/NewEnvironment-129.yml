@@ -1,0 +1,11 @@
+fileVersion: 1
+id: "129"
+mappingDefinitions:
+  SOURCES:
+    database: coalesce
+    schema: sample_data
+  STG:
+    database: mx_catalog
+    schema: mx_schema
+name: New Environment
+type: Environment
